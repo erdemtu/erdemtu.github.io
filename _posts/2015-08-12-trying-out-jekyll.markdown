@@ -2,7 +2,7 @@
 layout: post
 title:  "Trying out Jekyll"
 date:   2015-08-12 19:06:21
-categories: jekyll markdown
+categories:
 ---
 After considering Wordpress, Octopress, Jekyll and a custom website made with
 Ruby On Rails, I decided to go forward with Jekyll. It seemed like the fastest
