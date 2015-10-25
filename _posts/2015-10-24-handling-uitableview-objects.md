@@ -19,17 +19,17 @@ to share my TableViewManager; Having built it, I knew very well how to use it
 but I suspected it was too much custom tailored for myself. I was too busy to
 refine and document it for others so I kept on postponing it.
 
-Now that I started working with Swift, I also began porting my TableViewManager
-to Swift as an exercise and to make it simpler. Swift certainly simplified the
+Now that I am working with Swift, I am also porting my TableViewManager
+to Swift as an exercise and to make it simpler. Swift is certainly simplifying the
 library though for now It is not as "Swifty" as I want. Maybe there are some
 classes that can be made into protocols or structs instead. Maybe generics can
 make constructing tableview models safer. I'll try to keep my eyes open for
 those kinds of opportunities.
 
-In the mean time I came across other "TableViewManager" libraries:
+In the mean time, I came across other "TableViewManager" libraries:
 [RETableViewManager](https://github.com/romaonthego/RETableViewManager),
 [DTTableViewManager](https://github.com/DenHeadless/DTTableViewManager) and
-[Static](https://github.com/venmo/Static). They all seem to be popular so I'll
+[Static](https://github.com/venmo/Static). They seem to be popular so I'll
 be sure to investigate their take on the problem.
 
 Lastly I think with iOS 9 `UIStackView` looks like it could handle some cases
