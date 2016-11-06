@@ -6,9 +6,9 @@ categories:
 ---
 
 The shifts in what we consider "acceptable" or "common sense" are interesting.
-Smoking in airplanes are a good example. While watching Mad Men you get used to
-people smoking constantly but the that time half the passengers lit up their
-cigarettes is surprising.
+Smoking in airplanes is a good example. While watching Mad Men you get used to
+people smoking constantly but it is another matter when half of the passengers lit up their
+cigarettes.
 
 I wonder about the commonplace things today that we'll find barbaric in the
 future. Here is some of my guesses:
