@@ -20,6 +20,6 @@ This one is inspired by [From the New World](https://en.wikipedia.org/wiki/From_
 This one is a reiteration of something I made, way back in 2012. I am a bit iffy
 about the color but it is better to make first & edit later.
 
-![Grounded Wallpaper]({{ site.url }}/assets/single-wing@2x.png)
+![Single Wing Wallpaper]({{ site.url }}/assets/single-wing@2x.png)
 
-![Grounded Wallpaper]({{ site.url }}/assets/single-wing-dark@2x.png)
+![Single Wing Wallpaper]({{ site.url }}/assets/single-wing-dark@2x.png)
