@@ -5,7 +5,7 @@ date:   2017-02-13 18:26:15 +0300
 categories:
 ---
 
-As usual, I got bored of my wallpaper phone.
+As usual, I got bored of my wallpaper phone. So I made two.
 
 The first one was supposed to be a skull with a viking helmet. After using it
 for a couple of days, I decided that the helmet wasn't that great. Maybe I'll
