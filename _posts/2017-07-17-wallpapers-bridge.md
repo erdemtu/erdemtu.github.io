@@ -11,13 +11,13 @@ Bridge:
 
 ![Bridge Wallpaper - Lock Screen]({{ site.url }}/assets/Bridge@2x.png)
 
-![Bridge Wallpaper - Home Screen]({{ site.url }}/assets/Bridge-dark@2x.png)
+![Bridge Wallpaper - Home Screen]({{ site.url }}/assets/Bridge-Dark@2x.png)
 
 Other Winds:
 
 ![Other Winds Wallpaper - Lock Screen]({{ site.url }}/assets/OtherWinds@2x.png)
 
-![Other Winds Wallpaper - Home Screen]({{ site.url }}/assets/OtherWinds-dark@2x.png)
+![Other Winds Wallpaper - Home Screen]({{ site.url }}/assets/OtherWinds-Dark@2x.png)
 
 Angular:
 
