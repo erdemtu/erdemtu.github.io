@@ -23,4 +23,4 @@ haven't quite figured out the marketing aspect of it (which is the one of the re
 Also Bombardo is kinda lacking on the "juice" department. There should be better
 feedback for all sorts of stuff.
 
-Different play modes could also be used
+Different play modes could also be used.
